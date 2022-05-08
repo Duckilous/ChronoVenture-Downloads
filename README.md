@@ -53,7 +53,7 @@ Otherwise, you can always ignore the goal and just run to the end of the level a
 **Enter** - Pause Menu  
 **Arrow Keys** - Movement  
 
-#### XInput Controller (Xbox)
+### XInput Controller (Xbox)
 **A** - Jump  
 **B** - Attack  
 **X** - Melee (4 Btn)  
