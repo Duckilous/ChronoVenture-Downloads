@@ -1,5 +1,6 @@
 # ChronoVenture
-Private repo of my game
+**This GitHub repository is for archiving public versions of the game and to host a simple wiki.**
+[Downloads](https://github.com/Duckilous/ChronoVenture-Downloads/releases) | [Wiki](https://github.com/Duckilous/ChronoVenture-Downloads/wiki)
 
 ------------
   Overview
@@ -36,59 +37,60 @@ Otherwise, you can always ignore the goal and just run to the end of the level a
 ------------
   Controls
 ------------
-Keyboard controls are using the QWERTY layout.
-[Classic Two Button Controls]
-Z - Jump
-X - Attack
-Enter - Pause Menu
-Shift - Weapon Select
-Arrow Keys - Movement
+**Keyboard controls are using the QWERTY layout.**
+#### Classic Two Button Controls
+**Z** - Jump
+**X** - Attack
+**Enter** - Pause Menu
+**Shift** - Weapon Select
+**Arrow Keys** - Movement
 
-[Modern Four Button Controls]
-X - Jump
-Z - Melee
-C - Shoot
-S/Shift - Weapon Select
-Enter - Pause Menu
-Arrow Keys - Movement
+#### Modern Four Button Controls
+**X** - Jump
+**Z** - Melee
+**C** - Shoot
+**S or Shift** - Weapon Select
+**Enter** - Pause Menu
+**Arrow Keys** - Movement
 
-[XInput Controller (Xbox)]
-A - Jump
-B - Attack
-X - Melee (4 Btn)
-Y/Back - Weapon Select (4 Btn)
-Start - Pause Menu
-D-Pad - Movement
+#### XInput Controller (Xbox)
+**A** - Jump
+**B** - Attack
+**X** - Melee (4 Btn)
+**Y or Back** - Weapon Select (4 Btn)
+**Start** - Pause Menu
+**D-Pad** - Movement
 
-You can always resize the game's window by pressing 1-6, enable fullscreen with 7 and windowed mode with 8.
+You can also resize the game's window anytime by pressing 1-6, enable fullscreen with 7 and windowed mode with 8.
 
 -----------
   Weapons
 -----------
-Claws - Lizzy's own claws, her melee attack. Can be used to swipe against enemies on the ground or in the air.
-Yarnbombs - Lizzy's handcrafted bomb made out of yarn... somehow. Can instantly take out weak enemies and destroy breakable blocks.
-Zapper - A laser standard pistol that resembles a light gun. Useful for taking out enemies in a distance. Already unlocked for this demo.
-Insecticider - A modified water gun that squirts bug spray through a lighter. Essentially a flamethrower.
+- **Claws** - Lizzy's own claws, her melee attack. Can be used to swipe against enemies on the ground or in the air.
+- **Yarnbombs** - Lizzy's handcrafted bomb made out of yarn... somehow. Can instantly take out weak enemies and destroy breakable blocks.
+- **Zapper** - A laser standard pistol that resembles a light gun. Useful for taking out enemies in a distance. Already unlocked for this demo.
+- **Insecticider** - A modified water gun that squirts bug spray through a lighter. Essentially a flamethrower.
 
-While on the ground, Lizzy can throw yarnbombs and shoot lasers ahead of her, lowered when crouching or diagonally up when aiming up.
-While airborne, Lizzy can throw yarnbombs and shoot lasers in 8 directions.
-The Insecticider can only spray flames forward and lowered.
+#### Notes
+- While on the ground, Lizzy can throw yarnbombs and shoot lasers ahead of her, lowered when crouching or diagonally up when aiming up.
+- While airborne, Lizzy can throw yarnbombs and shoot lasers in 8 directions.
+- The Insecticider can only spray flames forward and lowered.
 
 --------------
   Enemy List
 --------------
-Native Critters:
-Swooper - An aggressive bird that swoops nearby prey they see.
-Lil' Swooper - A young but grouchy bird that pecks anyone they hop towards when awake.
-Dropbear - Koala-like creatures that hold onto trees or hide inside hollows until they see a prey to drop onto.
+#### Native Critters:
+**Swooper** - An aggressive bird that swoops nearby prey they see.
+**Lil' Swooper** - A young but grouchy bird that pecks anyone they hop towards when awake.
+**Dropbear** - Koala-like creatures that hold onto trees or hide inside hollows until they see a prey to drop onto.
 
-Insectoids:
-Bullant - A bull ant who was instructed to build and guard torches but most of them just walk around aimlessly instead.
-Firent - A fire ant who only appears in Act 2B and walks like Bullants but highly inflammable. They run fast when lit on fire.
+#### Insectoids:
+**Bullant** - A bull ant who was instructed to build and guard torches but most of them just walk around aimlessly instead.
+**Firent** - A fire ant who only appears in Act 2B and walks like Bullants but highly inflammable. They run fast when lit on fire.
 
-Bosses:
-Dipter - A fly soldier who's been building one of the burning torches. Persistent but not much of a threat.
-Megabear - A bigger and tougher Dropbear that can expel fireballs. Resembles a certain prickly mammal in this demo.
+#### Bosses:
+**Dipter** - A fly soldier who's been building one of the burning torches. Persistent but not much of a threat.
+**Megabear** - A bigger and tougher Dropbear that can expel fireballs. Resembles a certain prickly mammal in this demo.
 
 --------------------------------
   You can follow/contact me on
