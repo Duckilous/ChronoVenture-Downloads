@@ -1,6 +1,5 @@
 # ChronoVenture
-**This GitHub repository is for archiving public versions of the game and to host a simple wiki.**
-
+**This GitHub repository is for archiving public versions of the game and to host a simple wiki.**  
 [Downloads](https://github.com/Duckilous/ChronoVenture-Downloads/releases) | [Wiki](https://github.com/Duckilous/ChronoVenture-Downloads/wiki)
 
 ------------
@@ -40,31 +39,27 @@ Otherwise, you can always ignore the goal and just run to the end of the level a
 ------------
 **Keyboard controls are using the QWERTY layout.**
 ### Classic Two Button Controls
-**Z** - Jump
-
-**X** - Attack
-
-**Enter** - Pause Menu
-
-**Shift** - Weapon Select
-
+**Z** - Jump  
+**X** - Attack  
+**Enter** - Pause Menu  
+**Shift** - Weapon Select  
 **Arrow Keys** - Movement
 
-#### Modern Four Button Controls
-**X** - Jump
-**Z** - Melee
-**C** - Shoot
-**S or Shift** - Weapon Select
-**Enter** - Pause Menu
-**Arrow Keys** - Movement
+### Modern Four Button Controls
+**X** - Jump  
+**Z** - Melee  
+**C** - Shoot  
+**S or Shift** - Weapon Select  
+**Enter** - Pause Menu  
+**Arrow Keys** - Movement  
 
 #### XInput Controller (Xbox)
-**A** - Jump
-**B** - Attack
-**X** - Melee (4 Btn)
-**Y or Back** - Weapon Select (4 Btn)
-**Start** - Pause Menu
-**D-Pad** - Movement
+**A** - Jump  
+**B** - Attack  
+**X** - Melee (4 Btn)  
+**Y or Back** - Weapon Select (4 Btn)  
+**Start** - Pause Menu  
+**D-Pad** - Movement  
 
 You can also resize the game's window anytime by pressing 1-6, enable fullscreen with 7 and windowed mode with 8.
 
@@ -76,7 +71,7 @@ You can also resize the game's window anytime by pressing 1-6, enable fullscreen
 - **Zapper** - A laser standard pistol that resembles a light gun. Useful for taking out enemies in a distance. Already unlocked for this demo.
 - **Insecticider** - A modified water gun that squirts bug spray through a lighter. Essentially a flamethrower.
 
-#### Notes
+### Notes
 - While on the ground, Lizzy can throw yarnbombs and shoot lasers ahead of her, lowered when crouching or diagonally up when aiming up.
 - While airborne, Lizzy can throw yarnbombs and shoot lasers in 8 directions.
 - The Insecticider can only spray flames forward and lowered.
