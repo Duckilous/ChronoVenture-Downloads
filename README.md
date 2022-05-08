@@ -1,5 +1,6 @@
 # ChronoVenture
 **This GitHub repository is for archiving public versions of the game and to host a simple wiki.**
+
 [Downloads](https://github.com/Duckilous/ChronoVenture-Downloads/releases) | [Wiki](https://github.com/Duckilous/ChronoVenture-Downloads/wiki)
 
 ------------
@@ -38,11 +39,15 @@ Otherwise, you can always ignore the goal and just run to the end of the level a
   Controls
 ------------
 **Keyboard controls are using the QWERTY layout.**
-#### Classic Two Button Controls
+### Classic Two Button Controls
 **Z** - Jump
+
 **X** - Attack
+
 **Enter** - Pause Menu
+
 **Shift** - Weapon Select
+
 **Arrow Keys** - Movement
 
 #### Modern Four Button Controls
@@ -79,18 +84,18 @@ You can also resize the game's window anytime by pressing 1-6, enable fullscreen
 --------------
   Enemy List
 --------------
-#### Native Critters:
-**Swooper** - An aggressive bird that swoops nearby prey they see.
-**Lil' Swooper** - A young but grouchy bird that pecks anyone they hop towards when awake.
-**Dropbear** - Koala-like creatures that hold onto trees or hide inside hollows until they see a prey to drop onto.
+### Native Critters:
+- **Swooper** - An aggressive bird that swoops nearby prey they see.
+- **Lil' Swooper** - A young but grouchy bird that pecks anyone they hop towards when awake.
+- **Dropbear** - Koala-like creatures that hold onto trees or hide inside hollows until they see a prey to drop onto.
 
-#### Insectoids:
-**Bullant** - A bull ant who was instructed to build and guard torches but most of them just walk around aimlessly instead.
-**Firent** - A fire ant who only appears in Act 2B and walks like Bullants but highly inflammable. They run fast when lit on fire.
+### Insectoids:
+- **Bullant** - A bull ant who was instructed to build and guard torches but most of them just walk around aimlessly instead.
+- **Firent** - A fire ant who only appears in Act 2B and walks like Bullants but highly inflammable. They run fast when lit on fire.
 
-#### Bosses:
-**Dipter** - A fly soldier who's been building one of the burning torches. Persistent but not much of a threat.
-**Megabear** - A bigger and tougher Dropbear that can expel fireballs. Resembles a certain prickly mammal in this demo.
+### Bosses:
+- **Dipter** - A fly soldier who's been building one of the burning torches. Persistent but not much of a threat.
+- **Megabear** - A bigger and tougher Dropbear that can expel fireballs. Resembles a certain prickly mammal in this demo.
 
 --------------------------------
   You can follow/contact me on
