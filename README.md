@@ -1,6 +1,6 @@
 # ChronoVenture
-**This GitHub repository is for archiving public versions of the game and to host a simple wiki.**  
-[Downloads](https://github.com/Duckilous/ChronoVenture-Downloads/releases) | [Wiki](https://github.com/Duckilous/ChronoVenture-Downloads/wiki)
+**This GitHub repository is for archiving public versions of the game.**  
+[Downloads](https://github.com/Duckilous/ChronoVenture-Downloads/releases) | [Website (Soon)](https://github.com/Duckilous/ChronoVenture-Downloads/wiki)
 
 ------------
   Overview
